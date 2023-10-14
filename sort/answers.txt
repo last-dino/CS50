@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it took the longest when the order is reversed, and it's much faster when the file is sorted.
+
+sort2 uses: merge sort
+
+How do you know?: it's the fastest algorithm out of the three sort for almost all cases. And the speed for sorted, random, and reverse is about the same.
+
+sort3 uses: selection sort
+
+How do you know?: it took about the same amount of time for sorted, random, and reverse. it took the longest when the file is sorted, and the second longest when it's reversed.
