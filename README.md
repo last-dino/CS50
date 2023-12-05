@@ -1,2 +1,2 @@
 # CS50
-my solutions for cs50 python class
+my solutions for cs50 classes
